@@ -18,7 +18,7 @@ pip install -e .
 
 How to install:
 ```bash
-git clone https://github.com/giobin/rocket.git
-cd rocket
+[git clone https://github.com/giobin/VlmPolicyEsann24.git
+cd VlmPolicyEsann24
 pip install -r requirements.txt
 ```
